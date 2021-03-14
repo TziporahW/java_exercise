@@ -1,0 +1,3 @@
+The smallest number in the file is-25.0
+The largest number in the file is1250.0
+The average of all the numbers in the file is240.20833333333334
